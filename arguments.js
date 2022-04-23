@@ -1,4 +1,5 @@
 module.exports = [
-    "Test Token",
+  "Test Token",
     "TST"
+
   ];
